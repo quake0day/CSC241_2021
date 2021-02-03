@@ -2,7 +2,7 @@ package AlgorithmAnalysis;
 
 import java.util.ArrayList;
 
-public class MovingAverage {
+public class MovingAverage1 {
 
     public static void main(String[] args) {
         ArrayList<Double> Dataset = new ArrayList<>();
