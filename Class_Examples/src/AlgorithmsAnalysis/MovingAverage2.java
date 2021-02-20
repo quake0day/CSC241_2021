@@ -2,7 +2,7 @@ package AlgorithmsAnalysis;
 
 import java.util.ArrayList;
 
-public class MovingAverage1 {
+public class MovingAverage2 {
 
     public static void main(String[] args) {
         ArrayList<Double> Dataset = new ArrayList<>();
@@ -14,14 +14,14 @@ public class MovingAverage1 {
         Dataset.add(150.9); // 4
         int N = Dataset.size();
         int M = 3;
-        // Total Time complexity: M * (N-M+1) =  MN - M^2 + M
-
-        for(int i = M-1; i < N; i++) // N-(M-1) = N-M+1
-        {
-            double partialSum = 0;
-            for(int j = 0; j < M; j++) // M
-                partialSum += Dataset.get(i-j);
-            result.add(partialSum / M);
+        // Total Time complexity: O(N)
+        double partialSum = 0;
+        for(int j = 0; j < M - 1; j++)
+            partialSum += Dataset.get(j); // ==> 101.1 + 120.2  ==> A
+        for(int i = M - 1; i < N; i++){
+            partialSum += Dataset.get(i); // ==> A + 130.3
+            result.add(partialSum / M);  // ==> (A + 130.3) / 3
+            partialSum -= Dataset.get(i - (M - 1)); // ==> A + 130.3 - 101.1
         }
         System.out.println(result);
     }
