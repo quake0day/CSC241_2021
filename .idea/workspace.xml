@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oDzaBGvF3vzbKfpkb2s9cCC5C0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Class_Examples/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Class_Examples/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AlgorithmsAnalysis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MovingAverage2">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.Factorial" />
+      <module name="Class_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovingAverage1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmsAnalysis.MovingAverage1" />
+      <module name="Class_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgorithmsAnalysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovingAverage2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmsAnalysis.MovingAverage2" />
+      <module name="Class_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgorithmsAnalysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.RecursionDemo" />
+      <module name="Class_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="MovingAverage1" />
+      <module name="CSC241_2021" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScoresDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkAnswers.TestScoresDemo" />
+      <module name="Class_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run" />
+      <item itemvalue="Application.TestScoresDemo" />
+      <item itemvalue="Application.RecursionDemo" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.MovingAverage2" />
+      <item itemvalue="Application.MovingAverage1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovingAverage2" />
+        <item itemvalue="Application.MovingAverage1" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.RecursionDemo" />
+        <item itemvalue="Application.TestScoresDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="" />
+      <created>1612836009762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612836009762</updated>
+      <workItem from="1612836010912" duration="10882000" />
+      <workItem from="1613684735103" duration="5430000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Answers for review questions">
+      <created>1612929706531</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612929706531</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add code for recursion">
+      <created>1613101291976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613101291976</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add code for linkedlist and algorithm analysis">
+      <created>1613791332355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613791332355</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Answers for review questions" />
+    <MESSAGE value="Add code for recursion" />
+    <MESSAGE value="Add code for linkedlist and algorithm analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code for linkedlist and algorithm analysis" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="94" key="#Project_Structure" timestamp="1612836182194">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="512" y="94" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1612836182194" />
+    <state x="737" y="355" width="1251" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612836292434">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="737" y="355" width="1251" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1612836292434" />
+    <state x="969" y="450" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1612836291797">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="969" y="450" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1612836291797" />
+    <state x="0" y="124" key="CommitChangelistDialog2" timestamp="1613791332009">
+      <screen x="0" y="25" width="2560" height="1364" />
+    </state>
+    <state x="0" y="124" key="CommitChangelistDialog2/0.25.2560.1364@0.25.2560.1364" timestamp="1613791332009" />
+    <state x="0" y="124" key="CommitChangelistDialog2/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613101291649" />
+    <state width="2498" height="223" key="GridCell.Tab.0.bottom" timestamp="1613768200337">
+      <screen x="0" y="25" width="2560" height="1364" />
+    </state>
+    <state width="1330" height="352" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074366" />
+    <state width="2498" height="223" key="GridCell.Tab.0.bottom/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200337" />
+    <state width="1885" height="223" key="GridCell.Tab.0.bottom/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094638" />
+    <state width="2498" height="223" key="GridCell.Tab.0.center" timestamp="1613768200336">
+      <screen x="0" y="25" width="2560" height="1364" />
+    </state>
+    <state width="1330" height="352" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074365" />
+    <state width="2498" height="223" key="GridCell.Tab.0.center/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200336" />
+    <state width="1885" height="223" key="GridCell.Tab.0.center/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094636" />
+    <state width="2498" height="223" key="GridCell.Tab.0.left" timestamp="1613768200335">
+      <screen x="0" y="25" width="2560" height="1364" />
+    </state>
+    <state width="1330" height="352" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074364" />
+    <state width="2498" height="223" key="GridCell.Tab.0.left/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200335" />
+    <state width="1885" height="223" key="GridCell.Tab.0.left/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094635" />
+    <state width="2498" height="223" key="GridCell.Tab.0.right" timestamp="1613768200336">
+      <screen x="0" y="25" width="2560" height="1364" />
+    </state>
+    <state width="1330" height="352" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074366" />
+    <state width="2498" height="223" key="GridCell.Tab.0.right/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200336" />
+    <state width="1885" height="223" key="GridCell.Tab.0.right/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094637" />
+    <state x="40" y="318" key="Vcs.Push.Dialog.v2" timestamp="1613791338143">
+      <screen x="0" y="25" width="2560" height="1364" />
+    </state>
+    <state x="40" y="318" key="Vcs.Push.Dialog.v2/0.25.2560.1364@0.25.2560.1364" timestamp="1613791338143" />
+    <state x="40" y="318" key="Vcs.Push.Dialog.v2/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613101297671" />
+    <state x="302" y="144" key="new project wizard" timestamp="1612836213225">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="302" y="144" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1612836213225" />
+  </component>
+</project>
