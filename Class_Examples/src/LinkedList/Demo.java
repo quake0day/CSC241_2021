@@ -3,6 +3,7 @@ package LinkedList;
 public class Demo {
 
     public static void main(String[] args) {
+        //
         Node first = new Node(99);
         Node second = new Node(100);
         Node third = new Node(103);
