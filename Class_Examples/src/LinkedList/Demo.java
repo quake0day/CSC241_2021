@@ -3,47 +3,45 @@ package LinkedList;
 public class Demo {
 
     public static void main(String[] args) {
-        //
         Node first = new Node(99);
         Node second = new Node(100);
         Node third = new Node(103);
         Node fourth = new Node(104);
-        LinkedList l = new LinkedList(first);
-        System.out.println(l.isEmpty());
+        LinkedList l1 = new LinkedList(first);
         first.next = second;
         second.next = third;
         third.next = fourth;
+        Node newNode = new Node(5);
+        // l1: 99->100->103->104
 
-        Node nodeNew = new Node(102);
-        second.next = nodeNew;
-        nodeNew.next = third;
+        Node first2 = new Node(99);
+        Node second2 = new Node(100);
+        Node third2 = new Node(103);
+        Node fourth2 = new Node(105);
+        LinkedList l2 = new LinkedList(first2);
+        first2.next = second2;
+        second2.next = third2;
+        third2.next = fourth2;
+        // l2: 99->100->103->104
+        Node z = new Node(777);
 
-        // removing a node
-        // if it is not the head node (e.g. nodeNew)
-        second.next = nodeNew.next;
-
-        // Time complexity? O(n)
-        Node ref = l.head;
-        while(ref != null)
+        System.out.println(isEqual(l1.head, l2.head));
+    }
+    public static boolean isEqual(Node h1, Node h2)
+    {
+        boolean result = true;
+        while(h1.next != null && h2.next != null)
         {
-            System.out.print(ref.data + "->");
-            ref = ref.next;
+            if(h1.data != h2.data)
+            {
+                result = false;
+            }
 
+            h1 = h1.next;
+            h2 = h2.next;
         }
-        System.out.println();
-        System.out.println("Size:");
-        System.out.println(l.size());
-
-        // add new Node 100 (n) to the end of the list
-         Node n = new Node(999);
-//        Node ref2 = l.head;
-//        while(ref2.next != null)
-//        {
-//            ref2 = ref2.next;
-//        }
-//        ref2.next = n;
-        l.addEnd(n);
-        System.out.println(l);
-
+        if(h1.next != null || h2.next != null)
+            result = false;
+        return result;
     }
 }

@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/DecrptString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/FindPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/LinkedListOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class_Examples/src/LinkedList/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/LinkedList/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Examples/src/Stack/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Examples/src/Stack/LinkedListStack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="6hix2bc4" />
+  </component>
   <component name="ProjectId" id="1oDzaBGvF3vzbKfpkb2s9cCC5C0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Class_Examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,19 +51,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers" />
       <recent name="$PROJECT_DIR$/Class_Examples" />
       <recent name="$PROJECT_DIR$/Class_Examples/src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="AlgorithmsAnalysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Class_Examples/src" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HomeworkAnswers" />
+      <recent name="AlgorithmsAnalysis" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.LinkedListOperations">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Demo" />
       <module name="Class_Examples" />
@@ -84,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovingAverage1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgorithmsAnalysis.MovingAverage1" />
+    <configuration name="LinkedListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeworkAnswers.LinkedListOperations" />
       <module name="Class_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AlgorithmsAnalysis.*" />
+          <option name="PATTERN" value="HomeworkAnswers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,21 +138,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Run" />
       <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.MovingAverage2" />
-      <item itemvalue="Application.MovingAverage1" />
       <item itemvalue="Application.StackDemo" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.LinkedListOperations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListOperations" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.MovingAverage2" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.StackDemo" />
-        <item itemvalue="Application.MovingAverage1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +177,10 @@
       <updated>1612836009762</updated>
       <workItem from="1612836010912" duration="10882000" />
       <workItem from="1613684735103" duration="6943000" />
+      <workItem from="1615558306148" duration="938000" />
+      <workItem from="1616213496560" duration="45000" />
+      <workItem from="1616214546562" duration="15000" />
+      <workItem from="1616214710351" duration="1936000" />
     </task>
     <task id="LOCAL-00001" summary="Add Answers for review questions">
       <created>1612929706531</created>
@@ -194,7 +217,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614398770516</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add code for queue">
+      <created>1615558353370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615558353370</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add code for queue">
+      <created>1615558373825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615558373825</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,74 +242,7 @@
     <MESSAGE value="Add code for recursion" />
     <MESSAGE value="Add code for linkedlist and algorithm analysis" />
     <MESSAGE value="Add code for stack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add code for stack" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="512" y="94" key="#Project_Structure" timestamp="1612836182194">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="512" y="94" key="#Project_Structure/0.0.2560.1440@0.0.2560.1440" timestamp="1612836182194" />
-    <state x="737" y="362" width="1251" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614805355266">
-      <screen x="0" y="25" width="2560" height="1368" />
-    </state>
-    <state x="737" y="355" width="1251" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1612836292434" />
-    <state x="737" y="362" width="1251" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2560.1368@0.25.2560.1368" timestamp="1614805355266" />
-    <state x="969" y="453" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614805354021">
-      <screen x="0" y="25" width="2560" height="1368" />
-    </state>
-    <state x="969" y="450" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1612836291797" />
-    <state x="969" y="453" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.2560.1368@0.25.2560.1368" timestamp="1614805354021" />
-    <state x="0" y="124" key="CommitChangelistDialog2" timestamp="1614398770318">
-      <screen x="0" y="25" width="2560" height="1366" />
-    </state>
-    <state x="0" y="124" key="CommitChangelistDialog2/0.25.2560.1364@0.25.2560.1364" timestamp="1613791332009" />
-    <state x="0" y="124" key="CommitChangelistDialog2/0.25.2560.1366@0.25.2560.1366" timestamp="1614398770318" />
-    <state x="0" y="124" key="CommitChangelistDialog2/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613101291649" />
-    <state width="2498" height="223" key="GridCell.Tab.0.bottom" timestamp="1614805367279">
-      <screen x="0" y="25" width="2560" height="1368" />
-    </state>
-    <state width="1330" height="352" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074366" />
-    <state width="2498" height="223" key="GridCell.Tab.0.bottom/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200337" />
-    <state width="2498" height="223" key="GridCell.Tab.0.bottom/0.25.2560.1366@0.25.2560.1366" timestamp="1614398752885" />
-    <state width="2498" height="223" key="GridCell.Tab.0.bottom/0.25.2560.1367@0.25.2560.1367" timestamp="1614733619378" />
-    <state width="2498" height="223" key="GridCell.Tab.0.bottom/0.25.2560.1368@0.25.2560.1368" timestamp="1614805367279" />
-    <state width="1885" height="223" key="GridCell.Tab.0.bottom/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094638" />
-    <state width="2498" height="223" key="GridCell.Tab.0.center" timestamp="1614805367278">
-      <screen x="0" y="25" width="2560" height="1368" />
-    </state>
-    <state width="1330" height="352" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074365" />
-    <state width="2498" height="223" key="GridCell.Tab.0.center/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200336" />
-    <state width="2498" height="223" key="GridCell.Tab.0.center/0.25.2560.1366@0.25.2560.1366" timestamp="1614398752884" />
-    <state width="2498" height="223" key="GridCell.Tab.0.center/0.25.2560.1367@0.25.2560.1367" timestamp="1614733619377" />
-    <state width="2498" height="223" key="GridCell.Tab.0.center/0.25.2560.1368@0.25.2560.1368" timestamp="1614805367278" />
-    <state width="1885" height="223" key="GridCell.Tab.0.center/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094636" />
-    <state width="2498" height="223" key="GridCell.Tab.0.left" timestamp="1614805367278">
-      <screen x="0" y="25" width="2560" height="1368" />
-    </state>
-    <state width="1330" height="352" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074364" />
-    <state width="2498" height="223" key="GridCell.Tab.0.left/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200335" />
-    <state width="2498" height="223" key="GridCell.Tab.0.left/0.25.2560.1366@0.25.2560.1366" timestamp="1614398752883" />
-    <state width="2498" height="223" key="GridCell.Tab.0.left/0.25.2560.1367@0.25.2560.1367" timestamp="1614733619376" />
-    <state width="2498" height="223" key="GridCell.Tab.0.left/0.25.2560.1368@0.25.2560.1368" timestamp="1614805367278" />
-    <state width="1885" height="223" key="GridCell.Tab.0.left/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094635" />
-    <state width="2498" height="223" key="GridCell.Tab.0.right" timestamp="1614805367279">
-      <screen x="0" y="25" width="2560" height="1368" />
-    </state>
-    <state width="1330" height="352" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1612840074366" />
-    <state width="2498" height="223" key="GridCell.Tab.0.right/0.25.2560.1364@0.25.2560.1364" timestamp="1613768200336" />
-    <state width="2498" height="223" key="GridCell.Tab.0.right/0.25.2560.1366@0.25.2560.1366" timestamp="1614398752884" />
-    <state width="2498" height="223" key="GridCell.Tab.0.right/0.25.2560.1367@0.25.2560.1367" timestamp="1614733619377" />
-    <state width="2498" height="223" key="GridCell.Tab.0.right/0.25.2560.1368@0.25.2560.1368" timestamp="1614805367279" />
-    <state width="1885" height="223" key="GridCell.Tab.0.right/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613063094637" />
-    <state x="40" y="318" key="Vcs.Push.Dialog.v2" timestamp="1614398777721">
-      <screen x="0" y="25" width="2560" height="1366" />
-    </state>
-    <state x="40" y="318" key="Vcs.Push.Dialog.v2/0.25.2560.1364@0.25.2560.1364" timestamp="1613791338143" />
-    <state x="40" y="318" key="Vcs.Push.Dialog.v2/0.25.2560.1366@0.25.2560.1366" timestamp="1614398777721" />
-    <state x="40" y="318" key="Vcs.Push.Dialog.v2/2560.25.1302.935/0.25.2560.1364@0.25.2560.1364" timestamp="1613101297671" />
-    <state x="302" y="144" key="new project wizard" timestamp="1612836213225">
-      <screen x="0" y="0" width="2560" height="1440" />
-    </state>
-    <state x="302" y="144" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1612836213225" />
+    <MESSAGE value="Add code for queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code for queue" />
   </component>
 </project>
