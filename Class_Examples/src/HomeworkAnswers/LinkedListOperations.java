@@ -1,8 +1,5 @@
 package HomeworkAnswers;
 
-
-import sun.awt.image.ImageWatched;
-
 public class LinkedListOperations {
     public static void main(String[] args) {
 
