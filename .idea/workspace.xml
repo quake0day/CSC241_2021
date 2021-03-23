@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/LinkedListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/LinkedListOperations.java" afterDir="false" />
-    </list>
+    <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +172,7 @@
       <workItem from="1615558306148" duration="938000" />
       <workItem from="1616213496560" duration="45000" />
       <workItem from="1616214546562" duration="15000" />
-      <workItem from="1616214710351" duration="2010000" />
+      <workItem from="1616214710351" duration="2591000" />
     </task>
     <task id="LOCAL-00001" summary="Add Answers for review questions">
       <created>1612929706531</created>
@@ -232,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616418633487</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add homework answers for basic linear structure.">
+      <created>1616418669397</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616418669397</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
