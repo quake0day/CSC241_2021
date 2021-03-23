@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="" />
+    <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/ConcatenateTwoLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/Insertith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/MyLinkedList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +49,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers" />
-      <recent name="$PROJECT_DIR$/Class_Examples" />
       <recent name="$PROJECT_DIR$/Class_Examples/src" />
+      <recent name="$PROJECT_DIR$/Class_Examples" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Class_Examples/src" />
@@ -172,7 +177,7 @@
       <workItem from="1615558306148" duration="938000" />
       <workItem from="1616213496560" duration="45000" />
       <workItem from="1616214546562" duration="15000" />
-      <workItem from="1616214710351" duration="2591000" />
+      <workItem from="1616214710351" duration="3442000" />
     </task>
     <task id="LOCAL-00001" summary="Add Answers for review questions">
       <created>1612929706531</created>
@@ -237,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616418669397</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add code for Tree">
+      <created>1616459857008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616459857008</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +262,7 @@
     <MESSAGE value="Add code for stack" />
     <MESSAGE value="Add code for queue" />
     <MESSAGE value="Add homework answers for basic linear structure." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework answers for basic linear structure." />
+    <MESSAGE value="Add code for Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code for Tree" />
   </component>
 </project>
