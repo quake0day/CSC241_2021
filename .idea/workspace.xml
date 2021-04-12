@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/ConcatenateTwoLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/Insertith.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/DecrptString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/DecrptString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/FindPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/FindPatterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/LinkedListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/LinkedListOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,19 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.LinkedListOperations">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Demo" />
+      <module name="Class_Examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.Demo" />
       <module name="Class_Examples" />
@@ -116,32 +130,8 @@
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" singleton="false">
-      <option name="MAIN_CLASS_NAME" value="MovingAverage1" />
-      <module name="CSC241_2021" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stack.StackDemo" />
-      <module name="Class_Examples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_111" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,17 +140,17 @@
       <item itemvalue="Application.Run" />
       <item itemvalue="Application.Factorial" />
       <item itemvalue="Application.MovingAverage2" />
-      <item itemvalue="Application.StackDemo" />
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.LinkedListOperations" />
+      <item itemvalue="Application.Demo (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LinkedListOperations" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.MovingAverage2" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.StackDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +167,12 @@
       <workItem from="1615558306148" duration="938000" />
       <workItem from="1616213496560" duration="45000" />
       <workItem from="1616214546562" duration="15000" />
-      <workItem from="1616214710351" duration="3442000" />
+      <workItem from="1616214710351" duration="4030000" />
+      <workItem from="1616473518926" duration="717000" />
+      <workItem from="1616629277904" duration="1117000" />
+      <workItem from="1616803167244" duration="429000" />
+      <workItem from="1617130874734" duration="740000" />
+      <workItem from="1617286388263" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="Add Answers for review questions">
       <created>1612929706531</created>
@@ -249,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616459857008</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add code for homework2">
+      <created>1616472349118</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616472349118</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +265,7 @@
     <MESSAGE value="Add code for queue" />
     <MESSAGE value="Add homework answers for basic linear structure." />
     <MESSAGE value="Add code for Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add code for Tree" />
+    <MESSAGE value="Add code for homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code for homework2" />
   </component>
 </project>

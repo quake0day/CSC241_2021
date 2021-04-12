@@ -2,6 +2,19 @@ package HomeworkAnswers;
 import java.util.Stack;
 public class FindPatterns
 {
+    // a+b ==>
+    //             /   b   /
+    //             /   +   /
+    //             /   a   /
+
+    // ==>  b+a
+
+    // 1+3 ==>
+    //             /   3   /
+    //             /   +   /
+    //             /   1  /
+
+    // ==> 3+1
     public static boolean containPattern(String s)
     {
         Stack<Character> seq1 = new Stack<Character>();

@@ -15,11 +15,13 @@ public class DecrptString
         {
             if (step == 0)
             {
+                // 1. Delete the first element of the sequence
                 result += q.remove();
                 step ++;
             }
             else
             {
+                // 2. Move the first element of the sequence to the end
                 q.add(q.remove());
                 step = 0;
             }

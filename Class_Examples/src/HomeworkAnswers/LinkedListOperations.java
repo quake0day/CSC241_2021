@@ -4,8 +4,9 @@ public class LinkedListOperations {
     public static void main(String[] args) {
 
         int[] nodeValue = {5, 6, 7, 1, 10, 20};
-        Node first = new Node(nodeValue[0]);
-        MyLinkedList l = new MyLinkedList(first);
+        MyLinkedList l = new MyLinkedList();
+        l.head = new Node(nodeValue[0]);
+        Node first = l.head;
         for(int i = 1; i < nodeValue.length; i++)
         {
             Node newNode = new Node(nodeValue[i]);
@@ -15,8 +16,9 @@ public class LinkedListOperations {
         System.out.println(gretaerThan(l,6));
         // input 2
         int[] nodeValue2 = {97,99,7,1,10,20};
-        Node first2 = new Node(nodeValue2[0]);
-        MyLinkedList l2 = new MyLinkedList(first2);
+        MyLinkedList l2 = new MyLinkedList();
+        l2.head = new Node(nodeValue2[0]);
+        Node first2 = l2.head;
         for(int i = 1; i < nodeValue2.length; i++)
         {
             Node newNode = new Node(nodeValue2[i]);
@@ -41,7 +43,8 @@ public class LinkedListOperations {
             }
             head = head.next;
         }
-        MyLinkedList result = new MyLinkedList(returnHead.next);
+        MyLinkedList result = new MyLinkedList();
+        result.head = returnHead.next;
         return result;
     }
 }
