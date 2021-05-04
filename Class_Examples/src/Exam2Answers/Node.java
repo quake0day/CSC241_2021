@@ -1,4 +1,4 @@
-package HomeworkAnswers;
+package Exam2Answers;
 
 public class Node {
     int data;

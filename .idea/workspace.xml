@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="">
+    <list default="true" id="7468bc27-c22d-4442-b7a6-f714465873af" name="Default Changelist" comment="Add code for exam2 answers and sorting">
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/Exam2Answers/BinaryHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/Exam2Answers/BinaryTreeBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/Exam2Answers/Hashing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/Exam2Answers/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class_Examples/src/Sorting/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/DecrptString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/DecrptString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/FindPatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/FindPatterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/LinkedListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/LinkedListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Class_Examples/src/HomeworkAnswers/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +62,7 @@
       <recent name="$PROJECT_DIR$/src/src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Exam2Answers" />
       <recent name="HomeworkAnswers" />
       <recent name="AlgorithmsAnalysis" />
     </key>
@@ -108,7 +112,7 @@
       <module name="Class_Examples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeworkAnswers.*" />
+          <option name="PATTERN" value="Exam2Answers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,6 +136,17 @@
     <configuration name="Run" type="Application" factoryName="Application" singleton="false">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_111" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,6 +188,9 @@
       <workItem from="1616803167244" duration="429000" />
       <workItem from="1617130874734" duration="740000" />
       <workItem from="1617286388263" duration="592000" />
+      <workItem from="1619098946877" duration="608000" />
+      <workItem from="1619531669742" duration="553000" />
+      <workItem from="1620099719505" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Add Answers for review questions">
       <created>1612929706531</created>
@@ -266,6 +284,7 @@
     <MESSAGE value="Add homework answers for basic linear structure." />
     <MESSAGE value="Add code for Tree" />
     <MESSAGE value="Add code for homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add code for homework2" />
+    <MESSAGE value="Add code for exam2 answers and sorting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add code for exam2 answers and sorting" />
   </component>
 </project>
